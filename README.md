@@ -1,6 +1,5 @@
 
-<!--
-**khalilsmith/khalilsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 # 💫 About Me:
 Hi, I'm Khalil Smith 👋  <br><br>Computer Science + Chemistry student at the University of Tampa with a strong interest in software engineering, AI, and systems design. <br><br>I build full-stack and backend systems using Python, JavaScript, TypeScript, React, and Node.js. Recently, I’ve been focused on event-driven architectures, real-time data processing, and scalable API design.  <br><br>I’m especially interested in applying software and AI to solve real-world problems, from system optimization to intelligent applications.  <br><br>🔭 I’m currently working on:  <br>A real-time parking system that tracks vehicle entry/exit using sensors and updates availability through a full-stack web application (FastAPI + Supabase + React).  <br><br>🌱 I’m currently learning:  <br>Artificial Intelligence, machine learning fundamentals, and how to integrate LLM-based solutions into real-world applications, along with improving my backend system design and scalability skills.  <br><br>👯 I’m looking to collaborate on:  <br>Projects involving AI, full-stack development, or real-time data systems—especially anything that solves real-world problems or improves efficiency through technology.  <br><br>📫 How to reach me:  <br>smithkhalil260@gmail.com 
@@ -23,4 +22,3 @@ Hi, I'm Khalil Smith 👋  <br><br>Computer Science + Chemistry student at the U
 ---
 [![](https://visitcount.itsvg.in/api?id=khalilsmith&icon=0&color=5)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
